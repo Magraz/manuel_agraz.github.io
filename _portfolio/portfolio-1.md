@@ -7,4 +7,4 @@ collection: portfolio
 Roomie IT Hospitaliy Robot is a robot I worked on during my time at Roomie IT.
 <br/>
 <br/>
-<img src="images/totalplaybot.png" alt="Hospitality Robot" style="border-radius: 10%;">
+<img src="https://magraz.github.io/manuel_agraz.github.io/images/totalplaybot.png" alt="Hospitality Robot" style="border-radius: 10%;">
