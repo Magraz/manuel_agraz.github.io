@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! and welcome to my website. My name is Manuel Agraz Vallejo, and I am a Mechatronics Engineer currently pursuing a MS in Robotics degree at Oregon State University. My research interests lie in the study of Legged Robot Locomotion and Reinforcement Learning.
+Hi! and welcome to my website. My name is Manuel Agraz Vallejo, and I am a Mechatronics Engineer currently pursuing a MS in Robotics degree at Oregon State University. My research interests lie in the study of Legged Robot Locomotion and Reinforcement Learning. Feel free to check my portfolio and CV to learn more about what I do.
 
 <img src="images/me_with_robots.png" alt="Me with robots" style="border-radius: 10%;">
 
